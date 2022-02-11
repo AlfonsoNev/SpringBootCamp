@@ -1,0 +1,3 @@
+server.port: 9091
+course:
+  message: Hola desde prd
